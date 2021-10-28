@@ -1,7 +1,7 @@
 <?php
   //za pomocą echo nie można tego wyświetlić
   echo "<pre>";
-    print_r($_POST);
+    print_r($_POST);//wypisywanie tablic
   echo "</pre>";
   if (!empty($_POST['name']) && !empty($_POST['geometricFigure'])) {
     //echo 'ok';

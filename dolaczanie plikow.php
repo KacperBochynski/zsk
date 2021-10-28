@@ -1,4 +1,4 @@
-dir="ltr" //od lewej do prawejpiszemy 
+dir="ltr" //od lewej do prawejpiszemy
 zeby wstawić całość html+enter
 ctrl+tab = przeskakuje miedzy plikami
 <!Doctype html>
@@ -7,5 +7,8 @@ ctrl+tab = przeskakuje miedzy plikami
             <meta charset="utf-8">
             <title></title>
         </head>
-
+include
+include_once
+reguire
+require-once
     </html>

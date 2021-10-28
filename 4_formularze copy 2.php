@@ -22,7 +22,7 @@
                     L;
                 }
                 else{
-                    echo "Wypełni wszystkie dane"; 
+                    echo "Wypełni wszystkie dane";
                 }
             ?>
         </body>
